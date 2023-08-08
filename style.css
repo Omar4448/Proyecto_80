@@ -1,0 +1,12 @@
+input{
+    margin:10px;   
+}
+#boton_env{
+    margin-top:20px;
+    margin-bottom:20px;
+}
+#boton_ordenar{
+    margin-top:20px;
+    margin-bottom:20px;
+    display:block;
+}
